@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StokTakipAPI.Model", "StokTakipAPI.Model\StokTakipAPI.Model.csproj", "{414C8094-4F75-4DC9-AB07-C9114D8241D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StokTakipAPI.DataAccess", "StokTakipAPI.DataAccess\StokTakipAPI.DataAccess.csproj", "{AD428DB5-B6E6-4A8B-934F-1CA0B1AFFD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StokTakipAPI.Business", "StokTakipAPI.Business\StokTakipAPI.Business.csproj", "{472C2705-C1BE-4DD5-85D4-7B08D3B50A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StokTakipAPI.WebUI", "StokTakipAPI.WebUI\StokTakipAPI.WebUI.csproj", "{31B2F406-6376-406A-B98D-9F1C19771962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414C8094-4F75-4DC9-AB07-C9114D8241D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414C8094-4F75-4DC9-AB07-C9114D8241D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414C8094-4F75-4DC9-AB07-C9114D8241D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414C8094-4F75-4DC9-AB07-C9114D8241D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD428DB5-B6E6-4A8B-934F-1CA0B1AFFD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD428DB5-B6E6-4A8B-934F-1CA0B1AFFD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD428DB5-B6E6-4A8B-934F-1CA0B1AFFD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD428DB5-B6E6-4A8B-934F-1CA0B1AFFD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472C2705-C1BE-4DD5-85D4-7B08D3B50A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472C2705-C1BE-4DD5-85D4-7B08D3B50A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472C2705-C1BE-4DD5-85D4-7B08D3B50A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472C2705-C1BE-4DD5-85D4-7B08D3B50A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B2F406-6376-406A-B98D-9F1C19771962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B2F406-6376-406A-B98D-9F1C19771962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B2F406-6376-406A-B98D-9F1C19771962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B2F406-6376-406A-B98D-9F1C19771962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BA0BD59-187D-4BA9-A3CD-3C4AAA7D580C}
+	EndGlobalSection
+EndGlobal
